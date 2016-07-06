@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SMSScanner</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Add New SMS</string>
+    <string name="title_activity_sms_content">SmsContentActivity</string>
+    <string name="txt_from">From:</string>
+    <string name="txt_response">Response</string>
+    <string name="not_available">Not available</string>
+    <string name="txt_content_name">Content:</string>
+    <string name="action_default">Make default</string>
+    <string name="title_activity_empty">EmptyActivity</string>
+</resources>

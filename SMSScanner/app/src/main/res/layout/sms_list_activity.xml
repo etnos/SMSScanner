@@ -1,0 +1,5 @@
+<fragment xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:id="@+id/fragment"
+    android:name="com.avira.iklimov.smsscanner.view.SMSActivityFragment"
+    tools:layout="@layout/sms_list_fragment" android:layout_width="match_parent"
+    android:layout_height="match_parent" />
